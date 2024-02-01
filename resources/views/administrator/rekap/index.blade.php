@@ -16,7 +16,7 @@
                 <h6 class="mt-2 font-weight-bold text-success">Data Rekap</h6>
             </div>
             <div class="card-body">
-                <table class="table table-bordered table-striped" id="dataTableUsers" width="100%" cellspacing="0">
+                <table class="table table-bordered table-striped" id="dataTableUsers" width="100%" cellspacing="0">    
                     <thead>
                         <tr >
                             <th>No Surat</th>
